@@ -1,0 +1,63 @@
+[
+  {
+    "name": "Ndovubase Solutions Limited",
+    "desc": "React based website project.",
+    "image": "Ndovubase2",
+    "category": "Website developemnt",
+    "links": {
+      "view": "httsp://ndovubase.com",
+      "code": "#"
+    }
+  },
+  {
+    "name": "UI UX design project",
+    "desc": " Figma design project",
+    "image": "ndovubase-yu",
+    "category": "UI UX",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+
+  {
+    "name": "NdovuPay UI UX Project",
+    "desc": "An intuitive and visually compelling user interface for the financial platform.",
+    "image": "ndovubase",
+    "category": "UI UX",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Sushi Restaurant Dish",
+    "desc": "React Project.",
+    "image": "Sushi",
+    "category": "E-comerce",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Lirana Enterprise Limited",
+    "desc": "E-commerce Website.",
+    "image": "lirana",
+    "category": "E-comerce",
+    "links": {
+      "view": "https://liranaltd.co.ke",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Swifttdial Systems limited",
+    "desc": "Company website Made using a Wordpress.",
+    "image": "swifttdial",
+    "category": "Website",
+    "links": {
+      "view": "https://swifttdial.com",
+      "code": "#"
+    }
+  }
+]
