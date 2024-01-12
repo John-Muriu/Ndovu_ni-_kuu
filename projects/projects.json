@@ -3,9 +3,9 @@
     "name": "Ndovubase Solutions Limited",
     "desc": "React based website project.",
     "image": "Ndovubase2",
-    "category": "Website developemnt",
+    "category": "website",
     "links": {
-      "view": "httsp://ndovubase.com",
+      "view": "https://ndovubase.com",
       "code": "#"
     }
   },
@@ -13,7 +13,7 @@
     "name": "UI UX design project",
     "desc": " Figma design project",
     "image": "ndovubase-yu",
-    "category": "UI UX",
+    "category": "uiux",
     "links": {
       "view": "#",
       "code": "#"
@@ -21,22 +21,32 @@
   },
 
   {
-    "name": "NdovuPay UI UX Project",
-    "desc": "An intuitive and visually compelling user interface for the financial platform.",
-    "image": "ndovubase",
-    "category": "UI UX",
+    "name": "Starhomes",
+    "desc": "Real estate website",
+    "image": "starhomes",
+    "category": "uiux",
     "links": {
       "view": "#",
       "code": "#"
     }
   },
   {
-    "name": "Sushi Restaurant Dish",
-    "desc": "React Project.",
-    "image": "Sushi",
-    "category": "E-comerce",
+    "name": "NdovuPay UI UX Project",
+    "desc": "An intuitive and visually compelling user interface for the financial platform.",
+    "image": "ndovubase",
+    "category": "uiux",
     "links": {
       "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Nutrionist Portfolio Website",
+    "desc": "React Project.",
+    "image": "cess",
+    "category": "website",
+    "links": {
+      "view": "https://cess.vercel.app/",
       "code": "#"
     }
   },
@@ -44,7 +54,7 @@
     "name": "Lirana Enterprise Limited",
     "desc": "E-commerce Website.",
     "image": "lirana",
-    "category": "E-comerce",
+    "category": "ecommerce",
     "links": {
       "view": "https://liranaltd.co.ke",
       "code": "#"
@@ -54,9 +64,39 @@
     "name": "Swifttdial Systems limited",
     "desc": "Company website Made using a Wordpress.",
     "image": "swifttdial",
-    "category": "Website",
+    "category": "website",
     "links": {
       "view": "https://swifttdial.com",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Global Nature Conservation Website",
+    "desc": "Global Nature Conservation Website design.",
+    "image": "gncon",
+    "category": "website",
+    "links": {
+      "view": "https://gncon.org",
+      "code": "#"
+    }
+  },
+  {
+    "name": "SomanaChacho",
+    "desc": "An Edtech Platform designed to offer revisional material to students.",
+    "image": "chacho",
+    "category": "website",
+    "links": {
+      "view": "https://chacho-kids.vercel.app/",
+      "code": "#"
+    }
+  },
+  {
+    "name": "kaliiMarket",
+    "desc": "Multivendor website",
+    "image": "kalii",
+    "category": "ecommerce",
+    "links": {
+      "view": "https://www.kaliimarket.com/",
       "code": "#"
     }
   }
